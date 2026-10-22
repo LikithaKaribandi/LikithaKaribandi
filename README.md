@@ -1,4 +1,4 @@
-# Hi, I'm LIkitha
+# Hi, I'm Likitha
 
 BTech Computer Science student (2nd year), learning DSA, Python and data science.
 
