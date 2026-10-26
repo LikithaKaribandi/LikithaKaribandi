@@ -1,14 +1,15 @@
 # Hi, I'm Likitha
 
-BTech Computer Science student (2nd year), learning DSA, Python and data science.
+2nd-year BTech student learning Data Analytics.
 
-## Currently learning
-- Python and data structures and algorithms
-- Probability and statistics
+## What I'm learning
+- Python
+- SQL
+- Excel
+- Statistics
 
-## Goals
-- 2027 internship in tech
-- Building data and ML projects
+## Goal
+Data Analyst internship in 2027.
 
-## Projects
-Coming soon. I'll add them here as I build them.
+## Currently
+Learning in public. I update my repositories every day.
